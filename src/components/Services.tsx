@@ -8,7 +8,7 @@ const SERVICES = [
     title: 'Aires Acondicionados',
     icon: ThermometerSnowflake,
     images: [
-      '/Aire_1.jpg',
+      '/AireAcondicionado_1.jpg',
       '/Aire_2.jpg',
       '/Aire_3.jpg',
       '/Aire_4.jpg',
@@ -30,7 +30,7 @@ const SERVICES = [
     title: 'Lavadoras',
     icon: WashingMachine,
     images: [
-      '/lavadora_1.jpg',
+      '/lavadora_1-1.jpg',
       '/lavadora_2.jpg',
       '/lavadora_3.jpg',
       '/lavadora_4.jpg',

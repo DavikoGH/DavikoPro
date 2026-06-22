@@ -12,7 +12,7 @@ export default function Footer() {
                 <Wrench className="w-5 h-5 text-white" />
               </div>
               <span className="font-display font-bold text-xl text-white tracking-tight">
-                Daviko<span className="text-brand-400">Pro</span>
+                Mario<span className="text-brand-400">Aires</span>
               </span>
             </a>
             <p className="max-w-sm mb-6 text-sm leading-relaxed">

@@ -37,7 +37,7 @@ export default function Header() {
               <Wrench className="w-6 h-6 text-white" />
             </div>
             <span className="font-display font-bold text-xl md:text-2xl text-white tracking-tight">
-              Daviko<span className="text-brand-400">Pro</span>
+              Mario<span className="text-brand-400">Aires</span>
             </span>
           </a>
 

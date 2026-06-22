@@ -3,9 +3,9 @@ import { ZoomIn } from 'lucide-react';
 
 const PROJECTS = [
   { img: 'https://images.unsplash.com/photo-1542013936693-884638332954?q=80&w=1974&auto=format&fit=crop', id: '1', title: 'Instalación Condominio', category: 'Aires Acondicionados' },
-  { img: 'https://images.unsplash.com/photo-1581092921461-7031e4bfb83e?q=80&w=2070&auto=format&fit=crop', id: '2', title: 'Mantenimiento Preventivo', category: 'Lavadoras' },
+  { img: '/lavadora_1-1.jpg', id: '2', title: 'Mantenimiento Preventivo', category: 'Lavadoras' },
   { img: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop', id: '3', title: 'Sistema Residencial', category: 'Heladeras' },
-  { img: 'https://images.unsplash.com/photo-1596700078832-7201c13bc30f?q=80&w=1974&auto=format&fit=crop', id: '4', title: 'Reparación Comercial', category: 'Aires Acondicionados' },
+  { img: '/AireAcondicionado_1.jpg', id: '4', title: 'Reparación Comercial', category: 'Aires Acondicionados' },
   { img: 'https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?q=80&w=2070&auto=format&fit=crop', id: '5', title: 'Hotel Grand Sur', category: 'Lavadoras' },
   { img: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=2070&auto=format&fit=crop', id: '6', title: 'Centro Gastronómico', category: 'Heladeras' },
 ];
